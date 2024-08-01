@@ -1,0 +1,6 @@
+transformers
+numpy
+pandas
+streamlit
+tensorflow
+torch==2.3.1
